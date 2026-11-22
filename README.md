@@ -1,52 +1,24 @@
-# Folder Icon Maker
+Folder Icon Maker 1.3.0: ทุกฟีเจอร์ฟรีแล้ว 🎉
+ดาวน์โหลด: FolderIconMaker-1.3.0.zip ด้านล่าง → แตก zip → เปิด FolderIconMaker.exe ถ้าขึ้น "Windows protected your PC" ให้กด More info → Run anyway
 
-เปลี่ยนสีและไอคอนโฟลเดอร์ใน Windows ได้ในคลิกเดียว · Custom folder colors and icons for Windows, in one click.
+ฟีเจอร์ Pro เดิม ใช้ฟรีหมดแล้ว
+กฎอัตโนมัติตามชื่อโฟลเดอร์ (เดือน, วิชา, ลูกค้า ...)
+นำเข้าไอคอนแพ็ก: PNG / ICO / SVG / .zip / .icl / .dll / .exe
+ส่งออก/นำเข้าดีไซน์เป็นไฟล์ .fim และสำรองทุกอย่างเพื่อย้ายเครื่อง
+ไม่ต้องใช้ license key อีกต่อไป ถ้าชอบแอปนี้ กดปุ่ม ♥ สนับสนุนผู้พัฒนา ด้านบนของแอปได้ตามสะดวก (ไม่บังคับ และไม่ได้ปลดล็อกอะไร)
 
-**[⬇ ดาวน์โหลดเวอร์ชันล่าสุด / Download the latest version](../../releases/latest)**
+ใหม่ในเวอร์ชันนี้
+เปิดแอปค้างไว้ แล้วคลิกโฟลเดอร์ใน File Explorer แอปจะเลือกโฟลเดอร์นั้นให้ทันที
+เครื่องมือเปิดเป็นแผงข้างในหน้าต่างเดียว ไม่มีหน้าต่างลอยทับกัน
+ใช้กับ 2 จอได้ หน้าต่างไม่เด้งไปจออื่น
+ลื่นขึ้นตอนกดเปลี่ยนสีและสไตล์
+ตรวจไฟล์ (SHA-256)
+BF1BAE7A037F68C625D786CB08F1F91BBABA6706A7E4C8CCDF533FC921113B83  FolderIconMaker-1.3.0.zip
+8EACBED01715BE40C28CF11CBEF55A7E5ACAAF0FB0CE55DE22A185529CFE979B  FolderIconMaker.exe
+ผลสแกน VirusTotal: (ใส่ลิงก์หลังสแกนที่ virustotal.com)
 
-ใช้ฟรีไม่จำกัดโฟลเดอร์ ไม่มีโฆษณา ไม่ต้องสมัครบัญชี · Free with unlimited folders, no ads, no account.
+Folder Icon Maker 1.3.0: everything is free now. Automatic rules, icon pack import, design files and backup no longer need a key. If you like the app, the ♥ button lets you chip in (optional, unlocks nothing).
 
-**⭐ Pro** (149 บาท จ่ายครั้งเดียว ใช้ได้ 3 เครื่อง): กฎอัตโนมัติตามชื่อโฟลเดอร์, นำเข้าไอคอนแพ็ก, ไฟล์ดีไซน์ .fim, สำรอง/ย้ายเครื่อง → [ซื้อ Pro / Buy Pro](https://garfiew.gumroad.com/l/jygcug)
+New: click a folder in File Explorer while the app is open and it's picked; tools open in a side panel (no floating windows); works across two screens; smoother color and style clicks.
 
----
-
-## ติดตั้ง (ภาษาไทย)
-
-1. ดาวน์โหลด `FolderIconMaker-<เวอร์ชัน>.zip` จากหน้า [Releases](../../releases/latest) (ดาวน์โหลดจากหน้านี้เท่านั้น)
-2. คลิกขวาที่ zip → **Extract All** ห้ามดึง exe ออกมาไฟล์เดียว เพราะต้องมีโฟลเดอร์ `_internal` อยู่ข้างๆ
-3. เปิด `FolderIconMaker.exe`
-4. ถ้าขึ้น **"Windows protected your PC"** ให้กด **More info → Run anyway**
-   - คำเตือนนี้ขึ้นเพราะแอปยังไม่ได้ซื้อใบรับรองเซ็นโค้ด ไม่ได้แปลว่ามีไวรัส
-   - ตรวจเองได้ตามหัวข้อ "ตรวจว่าเป็นไฟล์แท้" ข้างล่าง
-5. แอปทำงานอยู่ที่ไอคอนข้างนาฬิกา เรียกหน้าต่างขึ้นมาได้ด้วย **Ctrl+Alt+I**
-
-### ปลอดภัยไหม
-- แอปไม่แก้ไฟล์ระบบ แค่เขียนไฟล์ `desktop.ini` กับไฟล์ไอคอนลงในโฟลเดอร์ที่คุณเลือก
-- กด "คืนค่า" ได้ทุกเมื่อ
-- ไม่ส่งข้อมูลของคุณไปที่ไหน มีแค่การเช็กเวอร์ชันใหม่กับ GitHub วันละครั้ง (ปิดได้ใน ⚙ ตั้งค่า) และตอนเปิดใช้ Pro แอปส่งคีย์ไปตรวจกับ Gumroad ครั้งเดียว
-
-## Install (English)
-
-1. Download `FolderIconMaker-<version>.zip` from [Releases](../../releases/latest), and only from there.
-2. Right-click the zip → **Extract All**. Keep `FolderIconMaker.exe` next to its `_internal` folder.
-3. Run `FolderIconMaker.exe`.
-4. If **"Windows protected your PC"** shows up, click **More info → Run anyway**.
-   - The warning appears because the app isn't code-signed yet. It doesn't mean there is a virus.
-   - You can check the file yourself (see below).
-5. The app lives in the tray next to the clock. Press **Ctrl+Alt+I** to bring the window up.
-
-The app only writes `desktop.ini` and icon files into folders you pick, and "Restore" undoes it. The only network request is a once-a-day check for a new version on GitHub, which you can turn off in Settings.
-
-## ตรวจว่าเป็นไฟล์แท้ / Check the download
-
-Each release lists the SHA-256 of the zip and of the exe, plus a VirusTotal scan link. In PowerShell:
-
-```powershell
-Get-FileHash .\FolderIconMaker-1.2.0.zip -Algorithm SHA256
-```
-
-The number must match the one on the release page.
-
-## ติดต่อ / Contact
-
-แจ้งปัญหาหรือขอฟีเจอร์ได้ที่แท็บ **Issues** · Report problems or ask for features in **Issues**.
+Download: FolderIconMaker-1.3.0.zip below → extract → run FolderIconMaker.exe. If "Windows protected your PC" shows up, click More info → Run anyway (the app isn't code-signed yet).
